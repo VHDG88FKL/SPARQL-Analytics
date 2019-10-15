@@ -1,6 +1,6 @@
 # Python Analytics
 
-Here are six algorithms written in Python that works with graphs from  [graphalytics](https://graphalytics.org/datasets). The algorithms that are implemented:
+Here are six algorithms written in Python that work with graphs from  [graphalytics](https://graphalytics.org/datasets). The following algorithms were implemented:
 
 - Bread First Search (BFS)
 - Weakly Connected Components (WCC)
