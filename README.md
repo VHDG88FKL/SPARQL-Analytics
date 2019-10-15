@@ -2,5 +2,5 @@
 
 ## Considerations
 
-- The `src-code.zip` file contains the source code with the Stored Procedures.
-- The `datasets-and-scripts.zip` file contains the selected example datasets (Metro & Zika), as well as the script to convert the graph nodes to `nt` format.
+- The `src-code.zip` file contains the source code in Java with the respective POM file. Also it has the procedures for BFS, SSSP, PR, LCC and WCC. You have to set the dataset path in Utilities.java.
+- The `datasets.zip` file contains the example datasets in .NT format.
